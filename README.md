@@ -1,4 +1,4 @@
 # Blackjack-python
 
 Hello!
-This is a Blackjack text-based game with basic strategy help using Python. 
+This is a Blackjack text-based game using Python. Game also has double down capability and a basic strategy helper.
